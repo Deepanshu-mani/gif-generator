@@ -1,4 +1,4 @@
-
+<img width="1710" alt="Screenshot 2024-07-31 at 2 00 25 PM" src="https://github.com/user-attachments/assets/7396e741-4fc4-42f4-90ec-0a73fe20c173">
 
 # GIF Generator
 
@@ -67,4 +67,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
